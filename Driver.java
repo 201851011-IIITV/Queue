@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-import stack.StackArrayList;
+import queue.QueueArrayList;
 
 public class Driver {
 
